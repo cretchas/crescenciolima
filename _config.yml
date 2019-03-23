@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Crescencio Lima"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "To be done."
+  avatar           : "https://pbs.twimg.com/profile_images/870271521083805696/poPjuLwZ_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Researcher on Software Engineering"
   location         : "IFBA - Conquista"
   email            :
   links:
